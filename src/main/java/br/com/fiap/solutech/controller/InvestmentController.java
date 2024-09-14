@@ -23,6 +23,8 @@ import org.springframework.web.util.UriComponentsBuilder;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// investmentcontroller.
 @RestController
 @RequestMapping("/investment")
 public class InvestmentController {
