@@ -1,6 +1,6 @@
-# 🌟 Solutech - Investment Platform
+# 🌟 Solutech - Plataforma de Investimentos
 
-Welcome to **Solutech**, an innovative investment platform designed to revolutionize how individuals of all experience levels manage their investments. Our mission is to empower clients, from beginners to seasoned investors, with tools and insights that help them make informed financial decisions and achieve their long-term goals.
+Bem-vindo ao **Solutech**, uma plataforma de investimentos inovadora projetada para revolucionar a forma como indivíduos de todos os níveis de experiência gerenciam seus investimentos. Nossa missão é capacitar clientes, desde iniciantes até investidores experientes, com ferramentas e insights que os ajudem a tomar decisões financeiras informadas e alcançar seus objetivos de longo prazo.
 
 ## Prazos:
 Nosso grupo estabeleceu como prazo máximo de entrega no dia 20/05/24, visando alinhar todos os detalhes do projeto e caso ainda não tenha sido finalizado, finalização do projeto em conjunto. Cada membro recebeu a responsabilidade por uma parte específica:
