@@ -2,20 +2,13 @@
 
 Bem-vindo ao **Solutech**, uma plataforma de investimentos inovadora projetada para revolucionar a forma como indivíduos de todos os níveis de experiência gerenciam seus investimentos. Nossa missão é capacitar clientes, desde iniciantes até investidores experientes, com ferramentas e insights que os ajudem a tomar decisões financeiras informadas e alcançar seus objetivos de longo prazo.
 
-## Prazos:
-Nosso grupo estabeleceu como prazo máximo de entrega no dia 20/05/24, visando alinhar todos os detalhes do projeto e caso ainda não tenha sido finalizado, finalização do projeto em conjunto. Cada membro recebeu a responsabilidade por uma parte específica:
+## Members:
 
-- [X] 550202 Gabriel Melo dos Santos assumiu a responsabilidade pela criação do diagrama de classes das novas implementações com prazo até o dia 10/05/24.
-
-- [X] 550181 Gustavo Ferreira de Araujo assumiu a responsabilidade do desenvolvimento de query's para a entidade "User", com entrega prevista para o dia 13/05/24.
-
-- [X] 95003 Igor Ferreira Santana foi incumbido da criação de uma query para a entidade "Investment", com entrega prevista para o dia 13/05/24.
-
-- [X] 97757 Lucas Fernando Andrade Spinelli foi incumbido do desenvolvimento das alterações na criação do usuário e suas respectivas informações na entidade "InvestorInfo", com entrega prevista para o dia 15/05/24.
-
-- [X] 552262 YURI CHICHEDOM IKEGWUONU foi incumbido do desenvolvimento de uma query para a entidade "Agency", com entrega prevista para o dia 13/05/24.
-
-- [X] União do grupo para alinhamento final e retoques no projeto até o dia 19/05.
+- [X] 550202 Gabriel Melo dos Santos 
+- [X] 550181 Gustavo Ferreira de Araujo 
+- [X] 95003 Igor Ferreira Santana
+- [X] 97757 Lucas Fernando Andrade Spinelli
+- [X] 552262 YURI CHICHEDOM IKEGWUONU 
 
 
 ## Link do Pitch de apresentação do projeto
